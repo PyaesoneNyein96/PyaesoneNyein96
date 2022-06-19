@@ -1,7 +1,6 @@
 
 ### <div align="center">Hello ,I'm PyaeSone  👨‍💻 🚀</div>  
-![alt text]([http://url/to/img.png](https://camo.githubusercontent.com/05d2bc633fbe7854fe56f184a27cc60fac8a4226bdd9e47013d7d7058a29d40d/68747470733a2f2f616c657373616e64726f7365727665722e636f6d2f62616e6e65722e706e67))
-  
+![alt text](https://camo.githubusercontent.com/05d2bc633fbe7854fe56f184a27cc60fac8a4226bdd9e47013d7d7058a29d40d/68747470733a2f2f616c657373616e64726f7365727665722e636f6d2f62616e6e65722e706e67)
 
 <!-- - 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)   -->
   
