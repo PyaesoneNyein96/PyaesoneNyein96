@@ -5,7 +5,7 @@
 
 <div style="display: flex; flex-direction: row;
             display:justify-content-around">
-<img class="img" width="33%" src="https://cdn.dribbble.com/users/83362/screenshots/16530352/media/8d18b919cb19f6374a2c357b18068bdb.jpg?compress=1&resize=400x300"/>
+<img class="img" width="34%" src="https://cdn.dribbble.com/users/83362/screenshots/16530352/media/8d18b919cb19f6374a2c357b18068bdb.jpg?compress=1&resize=400x300"/>
   
 <img width="65%"  class="img" src="https://github-readme-stats.vercel.app/api?username=PyaesoneNyein96&show_icons=true&theme=gruvbox"/> 
 </div>
